@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Barcode</string>
+    <string name="TV_Header">Requests</string>
+    <string name="btn_Get">Get</string>
+</resources>
